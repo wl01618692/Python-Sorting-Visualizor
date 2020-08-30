@@ -1,5 +1,5 @@
 # Sorting Visualizer
-This is a python project to visualize several famous sorting algorithms and generate the animations via Matplotlib.  
+This is a simple python project to visualize several famous sorting algorithms and generate the animations via Matplotlib.
 
 The format of command line arguments
 python output.py arg1 arg2
