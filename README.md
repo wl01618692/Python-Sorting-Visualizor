@@ -1,15 +1,9 @@
 # Sorting Visualizer
-There are some python scripts which can visualize several famous sorting algorithms and generate the animations via Matplotlib.  
+This is a python project to visualize several famous sorting algorithms and generate the animations via Matplotlib.  
 
-## Environment Configuring
-* Install [Python 3](https://www.python.org/downloads/)
-* Install [Matplotlib](https://matplotlib.org/users/installing.html) via pip
-## Usage
-Under the root directory of the project, run the commands like the following format to call all functions:  
-```
+The format of command line arguments
 python output.py arg1 arg2
-```
-Details of the three arguments above:  
+
 * There are two posible options as "*arg1*":
     * `play` : Play an animation of a specific sorting algorithm or all algorithms in a new window, as a "figure" to Matplotlib.
     * `save-html` : Save the animation as a HTML page with a sequence of images.
