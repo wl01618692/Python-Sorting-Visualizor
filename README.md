@@ -11,7 +11,7 @@ python output.py arg1 arg2
     * `save-html` : Save the animation as a HTML page with a sequence of images.
 * There are nine posible options as "*arg2*":
     * `all` *(default)* : Show the visualization of all sorting algorithms in the animation.
-    * `bubble-sort` : Only show the visualization of bubble sorting algorithm in the animation. The following arguments have similar functions.
+    * `bubble-sort`
     * `comb-sort`
     * `heap-sort`
     * `insertion-sort`
